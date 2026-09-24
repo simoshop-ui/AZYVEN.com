@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://azyven-store.myshopify.com/sitemap.xml

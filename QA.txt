@@ -1,0 +1,7 @@
+required pages: PASS
+css/js: PASS
+contact: FAIL
+prices: PASS
+no legacy Veyro: PASS
+local links: PASS
+Broken: []
